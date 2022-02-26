@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+About Adam
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Learning about cybersecurity
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aacevedo004@student.butte.edu](mailto:aacevedo004@student.butte.edu)
