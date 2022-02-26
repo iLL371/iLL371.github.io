@@ -1,0 +1,24 @@
+---
+layout: post
+title: Lab 3
+---
+# Lab 3 Common Attacks
+# 
+# Task 2 discussed social engineering and a case study called Stuxnet-which was a computer virus allegedly created by the USA and Israeli governments
+to target the Iran nuclear program.
+# Task 3 discussed what Phising is and how actors can send website links that look almost the same as legitimate companies like Amazon or the Royal Mail 
+in the United Kingdom. It also explained when one is using a web browser and hovers over a site link it displays the real link at the bottom of your screen. 
+Although a site link can look real and legit it can be a mask to the real website which can be malicious. 
+# Task 3 also had a phishing test with several potential phishing emails to identify what phising emails can look like and ones that are legitimate.
+# Task 4 was about Malware and Ransomware, and referenced the infamous Wannacry ransomware. The task also explained how attackers can send files in 
+different formats to trick the user into executed the code.
+# Task 5 was about passwords and many errors users make in using easy passwords. It also had really good information about safe password storage
+called password hashing which is an industry standard. Additionally, it went on to explain how attackers can use a hash cracker
+with a list of likely passwords.
+# Task 6 discussed multi-factor authentication and why it is beneficial to use password managers and even provided some common password manager providers.
+# Task 7 explained why public wi-fi gives an attacker opportunities to steal sensitive information using a "man in the middle attack" and why using VPN's and websites 
+that are encrypted to help with a secure connection.
+# Task 8 discussed the importance of taking the appropriate steps to back up your data.  This included the 3-2-1 rule, 3 up to date copies of your data, 
+2 backups on different storage mediums and 1 backup on a cloud storage service.
+# Task 9 discussed the need to make sure software is up to date and vulnerabilities that can be exploited if you do not, especially with operating systems 
+and antivirus software. 
